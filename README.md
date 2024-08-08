@@ -1,0 +1,1 @@
+A full stack web app where user can store the value of his and his friends expenses and the value of split bill so that he can pay or can get paid later. A rest api is used for creating new friend and updating the bill values.
